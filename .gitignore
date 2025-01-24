@@ -1,0 +1,11 @@
+results/
+data/
+plots/
+__pycache__/
+notebooks/htmls/
+mouse_connectivity/
+src/
+pptx/
+tbd_eeg.code-workspace
+shared/
+.vscode/
